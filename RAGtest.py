@@ -1,4 +1,4 @@
-from Task1B.functions import delete_all, delete_and_save, merge_pdf, convert_to_pdf, get_config
+from functions import delete_all, delete_and_save, merge_pdf, convert_to_pdf, get_config
 
 config = get_config()
 
